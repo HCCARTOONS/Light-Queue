@@ -12,5 +12,6 @@ Style: OpCima,Continuum Medium,75,&H00FFFFFF,&H000000FF,&H0060000A,&H0060000A,0,
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect Scroll up;30;40;3[;5], Text
 Dialogue: 0,0:05:03.10,0:59:35.89,Continuum Medium,,0,0,0,,{\c&C0C0C0&}{\an3\fs20\shad0\b1\bord0\be0\pos(380,290)\fad(7000,3000)}RS➟TV\N Movies
+
 Dialogue: 1,1:05:03.10,1:59:35.89,Continuum Medium,,0,0,0,,{\c&C0C0C0&}{\an3\fs20\shad0\b1\bord0\be0\pos(380,290)\fad(7000,3000)}RS➟TV\N Movies
 
